@@ -1,0 +1,2 @@
+# Image Processing for Marine Mammal Detection
+BEng Robotics, Mechatronics and Control Engineering inidividual project to explore the applications of an automated, drone based marine mammal detection system. Final development to include a algorithm for identifcation of marine mammals.
